@@ -1,7 +1,7 @@
 ---
 title: "XCT Unwrap"
 summary: "Assert unwrap for XCTest"
-completion-scope: Function or Method
+completion-scope: All
 ---
 
 XCTUnwrap(<#expression#>, <#message#>)

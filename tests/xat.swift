@@ -1,7 +1,7 @@
 ---
 title: "XCT Assert True"
 summary: "Assert true for XCTest"
-completion-scope: Function or Method
+completion-scope: All
 ---
 
 XCTAssertTrue(<#expression#>, <#message#>)
